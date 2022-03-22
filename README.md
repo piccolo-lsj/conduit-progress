@@ -12,7 +12,7 @@
 
 ## 参数
 
-``` js 
+``` js
     props: {
         width: {
             type: Number,
