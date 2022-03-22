@@ -46,6 +46,6 @@
 ```
 
 ### git
-> https://github.com/Devil-lsj/addGit.git
+> https://github.com/piccolo-lsj/conduit-progress.git
 ### npm
 > https://www.npmjs.com/package/conduit-progress
