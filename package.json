@@ -1,7 +1,7 @@
 {
   "name": "conduit-progress",
   "description": "canvans绘制的管道进度条",
-  "version": "1.3.5",
+  "version": "1.3.6",
   "author": "y",
   "license": "MIT",
   "private": false,
